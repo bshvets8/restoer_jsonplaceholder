@@ -1,0 +1,74 @@
+{
+  "restaurants": [
+    {
+      "restaurantId": 1,
+      "name": "ПАБ \"5НИЦЯ\"",
+      "city": "Івано-Франківськ",
+      "phoneNumber": "+380999999999",
+      "address": "вулиця Гетьмана Мазепи, 24",
+      "imageFileName": "5e71f5e5ae0f6.jpeg",
+      "hasImage": true,
+      "imageUrl": "https://s3.eu-central-1.amazonaws.com/listmusor/production/comments/32759/208159/big/5e71f5e5ae0f6.jpeg?1584526823"
+    },
+    {
+      "restaurantId": 2,
+      "name": "VIVA ITALIA",
+      "city": "Івано-Франківськ",
+      "phoneNumber": "+380999999999",
+      "address": "вул. Вовчинецька, 26",
+      "imageFileName": "5e71f5e5ae0f6.jpeg",
+      "hasImage": true,
+      "imageUrl": "https://ivano-frankivsk.bestrest.com.ua/sites/default/files/styles/thumb-1000x700px-zaokruglennya/public/images/info/37851/top-37851.jpg?itok=vMS0VKRj"
+    },
+    {
+      "restaurantId": 3,
+      "name": "Grande Pizzeria",
+      "city": "Івано-Франківськ",
+      "phoneNumber": "+380999999999",
+      "address": "вул. Гаркуші, 21",
+      "imageFileName": "5e71f5e5ae0f6.jpeg",
+      "hasImage": true,
+      "imageUrl": "https://lasoon.net/photo/id_186583.jpg"
+    },
+    {
+      "restaurantId": 4,
+      "name": "Пивний клуб «ДЕСЯТКА» та Бістро",
+      "city": "Івано-Франківськ",
+      "phoneNumber": "+380999999999",
+      "address": "вулиця Шашкевича, 4",
+      "imageFileName": "5e71f5e5ae0f6.jpeg",
+      "hasImage": true,
+      "imageUrl": "https://ivano-frankivsk.bestrest.com.ua/sites/default/files/styles/thumb-1000x700px-zaokruglennya/public/images/info/35965/top-35965.jpg?itok=Kn0I0ytS"
+    },
+    {
+      "restaurantId": 5,
+      "name": "Віскі-паб BIBLIOTEKA",
+      "city": "Івано-Франківськ",
+      "phoneNumber": "+380999999999",
+      "address": "вул. Січових-Стрільців, 10",
+      "imageFileName": "5e71f5e5ae0f6.jpeg",
+      "hasImage": true,
+      "imageUrl": "https://reston.ua/uploads/img/zavedeniya/25779cc.jpg"
+    },
+    {
+      "restaurantId": 6,
+      "name": "FABBRICA",
+      "city": "Івано-Франківськ",
+      "phoneNumber": "+380999999999",
+      "address": "вул. Вірменська 1",
+      "imageFileName": "5e71f5e5ae0f6.jpeg",
+      "hasImage": true,
+      "imageUrl": "https://scontent.fifo3-1.fna.fbcdn.net/v/t1.0-9/54518773_2138416829581470_4757478240908476416_n.jpg?_nc_cat=111&ccb=2&_nc_sid=e3f864&_nc_ohc=5WyFmcpXseYAX_wjrvw&_nc_ht=scontent.fifo3-1.fna&oh=39498db6d050179b8565c77fb7df984f&oe=5FFB1A3B"
+    },
+    {
+      "restaurantId": 7,
+      "name": "ДІДІ ГУЛІ",
+      "city": "Івано-Франківськ",
+      "phoneNumber": "+380999999999",
+      "address": "вул. Грюнвальдська, 4а",
+      "imageFileName": "5e71f5e5ae0f6.jpeg",
+      "hasImage": true,
+      "imageUrl": "https://ivano-frankivsk.bestrest.com.ua/sites/default/files/styles/thumb-1000x700px-zaokruglennya/public/images/info/243105/top-243105.jpg?itok=dJmj9KFp"
+    },
+  ]
+}
