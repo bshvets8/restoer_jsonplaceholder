@@ -70,5 +70,93 @@
       "hasImage": true,
       "imageUrl": "https://ivano-frankivsk.bestrest.com.ua/sites/default/files/styles/thumb-1000x700px-zaokruglennya/public/images/info/243105/top-243105.jpg?itok=dJmj9KFp"
     }
+  ],
+  "categories": [
+    {
+      "categoryId": 1,
+      "restaurantId": 6,
+      "sequenceNo": 0,
+      "name": "Піца"
+    },
+    {
+      "categoryId": 2,
+      "restaurantId": 6,
+      "sequenceNo": 1,
+      "name": "Паста та полента"
+    },
+    {
+      "categoryId": 3,
+      "restaurantId": 6,
+      "sequenceNo": 2,
+      "name": "М'ясо на грилі"
+    }
+  ],
+  "dishes": [
+    {
+      "dishId": 1,
+      "restaurantId": 6,
+      "categoryId": 1,
+      "name": "Піца \"Маргарита\" з фермерською салямі",
+      "description": "І цим все сказано",
+      "amount": "480 г",
+      "price": "14300",
+      "hasImage": true,
+      "imageUrl": "https://assets.misteram.com.ua/misteram-public/f865b956f08888d7e5342f9f53606c81-400x0.png"
+    },
+    {
+      "dishId": 2,
+      "restaurantId": 6,
+      "categoryId": 1,
+      "name": "Піца Гостра з фермерським беконом,моцарелою та хрусткою цибулею",
+      "description": "З фермерським беконом, моцарелою та хрусткою цибулею.",
+      "amount": "460 г",
+      "price": "15600",
+      "hasImage": true,
+      "imageUrl": "https://assets.misteram.com.ua/misteram-public/5a3de744ffbbc413789735bf60deadb8-400x0.png"
+    },
+    {
+      "dishId": 3,
+      "restaurantId": 6,
+      "categoryId": 1,
+      "name": "Піца з куркою та фермерським беконом",
+      "description": "І цим все сказано",
+      "amount": "550 г",
+      "price": "17000",
+      "hasImage": true,
+      "imageUrl": "https://assets.misteram.com.ua/misteram-public/5c7cc3412f76af80670241c02c032d75-400x0.png"
+    },
+    {
+      "dishId": 4,
+      "restaurantId": 6,
+      "categoryId": 2,
+      "name": "Тальятеле з куркою, беконом та овочами",
+      "description": "Броколі, стручковою квасолею та грибами.",
+      "amount": "350 г",
+      "price": "10300",
+      "hasImage": true,
+      "imageUrl": "https://assets.misteram.com.ua/misteram-public/30599512dc5de4e2ca1ae9d912b6e790-400x0.png"
+    },
+    {
+      "dishId": 5,
+      "restaurantId": 6,
+      "categoryId": 2,
+      "name": "Полента з куркою та грибами у вершковому соусі",
+      "description": "І цим все сказано",
+      "amount": "300 г",
+      "price": "12700",
+      "hasImage": true,
+      "imageUrl": "https://assets.misteram.com.ua/misteram-public/249dd5643fffb4890030acd14863c790-400x0.png"
+    },
+    {
+      "dishId": 6,
+      "restaurantId": 6,
+      "categoryId": 3,
+      "name": "Стейк Рібай",
+      "description": "Вагова страва. Ціна вказана за 300 грам(середня вага однієї порції)",
+      "amount": "300 г",
+      "price": "24600",
+      "hasImage": true,
+      "imageUrl": "https://assets.misteram.com.ua/misteram-public/dbb88f781635588dd39e0d6ade5b2587-400x0.png"
+    }
   ]
 }
