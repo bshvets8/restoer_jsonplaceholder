@@ -158,5 +158,14 @@
       "hasImage": true,
       "imageUrl": "https://assets.misteram.com.ua/misteram-public/dbb88f781635588dd39e0d6ade5b2587-400x0.png"
     }
-  ]
+  ],
+  "user": {
+    "id": 99,
+    "userName": "restoer_user",
+    "phoneNumber": "+380123456789",
+    "email": "user@restoer.app",
+    "birthDate": "13-02-1998",
+    "firstName": "Restoer",
+    "lastName": "User"
+  }
 }
